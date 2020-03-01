@@ -22,7 +22,7 @@ Java 8+ installed
 
 1 Clone the repository
 ```sh
-git clone https://github.com/gochuyoung/UP42-QA-challenge.git
+git clone https://github.com/gochuyoung/KB-UP42-QA-CHALLENGE.git
 ```
 2 Provide 'api-key' and project-id' values into the config file
 ```sh
