@@ -24,7 +24,12 @@ Java 8+ installed
 ```sh
 git clone https://github.com/gochuyoung/UP42-QA-challenge.git
 ```
-2 Execute the following command in the main project directory
+2 Provide 'api-key' and project-id' values into the config file
+```sh
+src/test/resources/config.yaml
+```
+
+3 Execute the following command in the main project directory
 ```sh
 make test-exec
 ```
