@@ -20,7 +20,7 @@ Java 8+ installed
 
 ### Installation
 
-1 Clone the repository
+1 Clone the repository and import the gradle project
 ```sh
 git clone https://github.com/gochuyoung/KB-UP42-QA-CHALLENGE.git
 ```
